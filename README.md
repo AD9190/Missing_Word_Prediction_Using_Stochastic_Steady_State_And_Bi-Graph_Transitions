@@ -1,3 +1,27 @@
+# Missing Word Prediction Using Stochastic Steady State And Bi-Graph Transitions
+
+This project presents a novel approach to **missing word prediction** using a combination of **Stochastic Steady State probabilities** and **Bi-Graph Transitions**. The method is designed to efficiently predict missing words in text sequences, outperforming traditional methods like HMMs and LLMs in terms of interpretability and computational efficiency.
+
+## 📄 Paper Details
+
+- **Title**: Missing Word Prediction Using Stochastic Steady State And Bi-Graph Transitions
+- **Authors**:
+  - Aritra Saha  
+  - Ayan Dasgupta  
+  - Anubhab Mukherjee  
+  - Arijit Chatterjee  
+- **Affiliation**: Heritage Institute of Technology, Kolkata, West Bengal, India
+
+## 📊 Appendix I: Prediction Results
+
+The appendix in the paper contains comparative prediction results, showcasing:
+- ✅ Correct Predictions
+- ❗ Grammatically Correct but Incorrect Meaning
+- 📝 Grammatically Correct
+- ❌ Incorrect Predictions
+
+
+
 ## Appendix I: Prediction Results
 
 ### Correct Prediction
